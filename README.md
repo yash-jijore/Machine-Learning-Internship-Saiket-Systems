@@ -1,12 +1,22 @@
 📊 Customer Churn Analysis & Prediction
+
+
+
 🏢 Machine Learning Internship – SaiKet Systems
+
+
+
 📌 Project Overview
 
 This project was completed as part of my Machine Learning Internship at SaiKet Systems.
 
+
 The objective of this project is to analyze customer churn behavior in a telecommunications company and build predictive models to identify customers who are likely to churn.
 
+
 By identifying at-risk customers, businesses can take proactive measures to improve retention and reduce revenue loss.
+
+
 
 🎯 Objectives
 
